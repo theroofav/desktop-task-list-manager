@@ -14,7 +14,6 @@ function createWindow () {
     width: 1000,
     height: 600,
     resizable: false,
-    title: 'Snapster App',
     autoHideMenuBar: true,
     icon: __dirname + '/img/icon.png'
   })
